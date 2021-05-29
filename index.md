@@ -1,1 +1,1 @@
-[Google產品介紹Jamboard](/assets/files/pdf/en-ch-gps-science-american.pdf)
+[How GPS Weakens Memory—and What We Can Do about It](/assets/files/pdf/EN-CH-how-gps-weakens-memory.pdf)
