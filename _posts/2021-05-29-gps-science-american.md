@@ -1,9 +1,3 @@
-layout: post
-title: "gps"
-date: 2021-05-29
-categories: English-to-Chinese Science
-
-
 How GPS Weakens Memory—and What We Can Do about It
 =============
 
