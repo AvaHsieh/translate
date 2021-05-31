@@ -3,3 +3,10 @@ title: Translator-Ava Hsieh-Portfolio
 description: Showcase Ava Hsieh's English-Chinese translation works
 
 theme: jekyll-theme-cayman
+
+collections:
+  Chinese-English:
+    output: true
+    
+  English-Chinese:
+    output: true
