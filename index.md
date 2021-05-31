@@ -1,6 +1,6 @@
 <ul>
     {% for article in site.Chinese-English %}
-        <li><a href="{{article.url}}">{{ article }}</a></li>
+        <li><a href="{{article.url}}">{{ article.title }}</a></li>
     {% endfor %}
 </ul>
 
