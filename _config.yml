@@ -1,10 +1,10 @@
 markdown: GFM
-title: Translator-Ava Hsieh-Portfolio
+title: Translator Ava Hsieh-Portfolio
 description: Showcase Ava Hsieh's English-Chinese translation works
 
 theme: jekyll-theme-cayman
 
-baseurl: "translate/" 
+baseurl: "/translate" 
 
 collections:
   Chinese-English:
