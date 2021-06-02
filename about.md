@@ -1,6 +1,7 @@
 ---
 title: about Ava Hsieh
 layout: default
+permalink: /about/
 ---
 
 
