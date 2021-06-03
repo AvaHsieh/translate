@@ -2,6 +2,7 @@
     {% for article in site.Chinese-English %}
         <li><a href="{{article.url}}" target="_blank">{{ article.title }}</a></li>
     {% endfor %}
+    {{article.url}}
 </ul>
 
 <ul>
